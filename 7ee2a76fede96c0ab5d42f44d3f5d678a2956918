@@ -33,6 +33,24 @@
       "message": "Great Job adding the README. The only thing I\u0027d suggest you do is just add some content in it.",
       "revId": "7ee2a76fede96c0ab5d42f44d3f5d678a2956918",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "05386bb4_40b23a8f",
+        "filename": "README",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020558
+      },
+      "writtenOn": "2022-09-30T19:05:12Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "addbda57_de5d6708",
+      "revId": "7ee2a76fede96c0ab5d42f44d3f5d678a2956918",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
